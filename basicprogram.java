@@ -15,10 +15,10 @@ public class Main
 }
 
 // output:
-enter a number:
+// enter a number:
 
-55
-45
-55 45
+// 55
+// 45
+// 55 45
 
 
