@@ -5,7 +5,8 @@ public class Main
         Scanner s =new Scanner(System.in);
         
         System.out.println("enter two number:" );
-        int a = s.nextInt();
+        int a = s.nextInt();//int:nextint()
+        
         int b = s.nextInt();
         int c = a+b;
         
@@ -20,5 +21,7 @@ public class Main
 // 55
 // 45
 // 55 45
+
+
 
 
