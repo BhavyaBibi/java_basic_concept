@@ -1,5 +1,7 @@
-public class Main
-{
+import java.util.*;
+
+public class forloop{
+
     public static void main(String[] args) {
     Scanner sc =new Scanner(System.in);
         
@@ -11,9 +13,10 @@ public class Main
             sum += i;
         }
         System.out.println("the result is "+ sum);
+   }
 
-            }
 }
+// output
 
-#output
+// the result is 45
 
